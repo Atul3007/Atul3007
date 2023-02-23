@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Atul3007/Atul3007.github.io](https://github.com/Atul3007/Atul3007.github.io)
+- 👨‍💻 All of my projects are available at [https://atul3007.github.io/](https://atul3007.github.io/)
 
 - 💬 Ask me about **Coding(Frontend,Backend), DSA**
 
