@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <!-- <h3 align="center">Full stack web developer with optimal technical skills who possess self-discipline and the ability to work with minimum supervision. Looking forward to join a progressive organization with opportunities to work on significant projects.</h3>
  -->
-<img align="center" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
+<!-- <img align="center" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt=""> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul3007" alt="atul3007" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
