@@ -5,14 +5,6 @@
 <!-- <img align="center" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt=""> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul3007" alt="atul3007" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
-
-- 👨‍💻 All of my projects are available at [https://atul3007.github.io/](https://atul3007.github.io/)
-
-- 💬 Ask me about **Coding(Frontend,Backend), DSA**
-
-- 📫 How to reach me **atuldwivedi859@gmail.com**
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
 <!-- <a href="https://codepen.io/atul dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atul dwivedi" height="30" width="40" /></a>
