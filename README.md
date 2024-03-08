@@ -1,4 +1,4 @@
-[![MasterHead]
+
 
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <!-- <h3 align="center">Full stack web developer with optimal technical skills who possess self-discipline and the ability to work with minimum supervision. Looking forward to join a progressive organization with opportunities to work on significant projects.</h3>
